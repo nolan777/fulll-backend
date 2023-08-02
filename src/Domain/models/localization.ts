@@ -1,3 +1,3 @@
-class Localization {
+export class Localization {
     constructor(public latitude: number, public longitude: number) { }
 }
